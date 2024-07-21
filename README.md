@@ -5,25 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaqubaliy02" alt="yaqubaliy02" /></a> </p>
 
-- 🔭 I’m currently working on [ManageMe](https://github.com/YaqubAliy02/ManageMe.Core.Api)
+- 🔭 I’m currently working on:  [ManageMe](https://github.com/YaqubAliy02/ManageMe.Core.Api)
 
-- 🌱 I’m currently learning **Blazor,DevOps etc.**
+- 🌱 I’m currently learning:  **Blazor, DevOps etc.**
 
-- 👯 I’m looking to collaborate on **The Standard Projects**
+- 👯 I’m looking to collaborate on:  **The Standard Projects**
 
-- 🤝 I’m looking for help with **.NET**
+- 🤝 I’m looking for help with:  **.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YaqubAliy02](https://github.com/YaqubAliy02)
 
-- 💬 Ask me about **C#,ASP.NET, SQL Server, Solid**
+- 💬 Ask me about:  **C#, ASP.NET, SQL Server, Solid Princple, Design Pattern**
 
-- 📫 How to reach me **yaqubaliy02@gmail.com**
+- 📫 How to reach me:  **yaqubaliy02@gmail.com**
 
-- ⚡ Fun fact **I create Youtube videos (soon)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact:  **I create Youtube videos (soon)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
