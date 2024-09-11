@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaqubaliy02" alt="yaqubaliy02" /></a> </p>
 
-- 🔭 I’m currently working on:  [ManageMe](https://github.com/YaqubAliy02/ManageMe.Core.Api)
+- 🔭 I’m currently working on:  [E-BookStore](https://github.com/YaqubAliy02/BookCatalog.Core.Api)
 
 - 🌱 I’m currently learning:  **Blazor, DevOps etc.**
 
