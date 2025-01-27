@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm YaqubAliy Majamolov</h1>
 <h3 align="center">A passionate .NET developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaqubaliy02" alt="yaqubaliy02" /></a> </p>
 
 - 🔭 I’m currently working on:  [Easy Shopping](https://github.com/YaqubAliy02/EasyShopping.Core.Api)
 
