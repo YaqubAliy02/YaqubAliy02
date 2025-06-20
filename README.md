@@ -2,21 +2,11 @@
 <h3 align="center">A passionate .NET developer from Uzbekistan</h3>
 
 
-- 🔭 I’m currently working on:  [Easy Shopping](https://github.com/YaqubAliy02/EasyShopping.Core.Api)
-
-- 🌱 I’m currently learning:  **Blazor, DevOps etc.**
-
-- 👯 I’m looking to collaborate on:  **The Standard Projects**
-
-- 🤝 I’m looking for help with:  **.NET**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YaqubAliy02](https://github.com/YaqubAliy02)
+- 🌱 I’m currently working at :  **63BITS Company**
 
 - 💬 Ask me about:  **C#, ASP.NET, SQL Server, Solid Princple, Design Pattern**
 
 - 📫 How to reach me:  **yaqubaliy02@gmail.com**
-
-- ⚡ Fun fact:  **I create Youtube videos (soon)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
